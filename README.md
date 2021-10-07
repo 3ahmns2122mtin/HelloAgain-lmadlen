@@ -13,13 +13,14 @@ Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
-->Hier der link einbauen
+https://3ahmns2122mtin.github.io/HelloAgain-lmadlen/
 
 ### Visuelle Einblicke in das Projekt: 
-->Hier das Bild Einfügen
+<img width="982" alt="Bildschirmfoto 2021-10-07 um 10 14 49" src="https://user-images.githubusercontent.com/62291189/136346189-74dfa0ed-8292-48f7-a20c-18d8bde9faa9.png">
 
 ### Notwendiges für die Ausführung: 
-Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
+Für den Export in WebGL muss das Modul WebGL in Unity ins
+talliert sein.
 
 
 Anforderungen:
@@ -38,12 +39,12 @@ Anforderungen:
  - [x] Anordnung in der Hierarchy so ändern, dass der Background hinter dem Text liegt
  - [x] Im Ornder Assets > MyGame einen Ordner Sprites anlegen, alle im Projekt verwendeten Sprites, die wir hinzufügen, dort ablegen.
  - [x] In das Image GameObject mit Namen Background ein Sprite in die Image Source ziehen
- - [ ] Assets und ProjectSettings Folders auf GitHub laden
+ - [x] Assets und ProjectSettings Folders auf GitHub laden
  - [x] Readme updaten
- - [ ] WebGL exportieren in HelloAgain-yourKürzel > docs
- - [ ] Upload auf GitHub
- - [ ] WebGL Pages Einstellen
- - [ ] Link in Readme einfügen
+ - [x] WebGL exportieren in HelloAgain-yourKürzel > docs
+ - [x] Upload auf GitHub
+ - [x] WebGL Pages Einstellen
+ - [x] Link in Readme einfügen
 
 Optionale Aufgabenstellung:
 
