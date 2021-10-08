@@ -13,7 +13,11 @@ Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
-https://3ahmns2122mtin.github.io/HelloAgain-lmadlen/
+
+
+#### !!!ACHTUNG!!!  ->Es sieht so aus, als ob es bei 90% stehen bleibt, ABER ich hab das Problem gelößt und wenn man ihm etwas Zeit gibt, läd es komplett und funktionert. 
+
+Link: https://3ahmns2122mtin.github.io/HelloAgain-lmadlen/
 
 ### Visuelle Einblicke in das Projekt: 
 <img width="982" alt="Bildschirmfoto 2021-10-07 um 10 14 49" src="https://user-images.githubusercontent.com/62291189/136346189-74dfa0ed-8292-48f7-a20c-18d8bde9faa9.png">
